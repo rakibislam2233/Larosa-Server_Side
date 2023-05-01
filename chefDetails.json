@@ -1,0 +1,621 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/ngcWm3R/chef-1.jpg",
+    "name": "John Smith",
+    "years_of_experience": 10,
+    "num_recipes": 50,
+    "likes": 10000,
+    "recipes": [
+        {
+            "name": "Chicken Alfredo Pasta",
+            "picture": "https://www.example.com/chicken-alfredo-pasta.jpg",
+            "ingredients": [
+              "8 oz fettuccine pasta",
+              "1 lb chicken breast, diced",
+              "3 cloves garlic, minced",
+              "1 cup heavy cream",
+              "1 cup grated Parmesan cheese",
+              "1/2 cup butter",
+              "Salt and pepper, to taste"
+            ],
+            "method": [
+              "1. Cook pasta according to package instructions.",
+              "2. In a separate pan, cook chicken and garlic until no longer pink.",
+              "3. Add heavy cream, Parmesan cheese, and butter to chicken mixture. Stir until cheese is melted and sauce is heated through.",
+              "4. Drain pasta and add it to the sauce. Toss to coat.",
+              "5. Season with salt and pepper to taste."
+            ],
+            "rating": 4.5
+        },
+        {
+            "name": "Beef Stir Fry",
+            "picture": "https://www.example.com/beef-stir-fry.jpg",
+            "ingredients": [
+              "1 lb beef sirloin, sliced",
+              "3 tbsp soy sauce",
+              "1 tbsp cornstarch",
+              "1 tsp sesame oil",
+              "1 tbsp vegetable oil",
+              "1 bell pepper, sliced",
+              "1 onion, sliced",
+              "2 cloves garlic, minced",
+              "1 inch ginger, grated",
+              "Salt and pepper, to taste"
+            ],
+            "method": [
+              "1. In a bowl, mix together soy sauce, cornstarch, and sesame oil. Add sliced beef and toss to coat.",
+              "2. Heat vegetable oil in a pan over high heat. Add sliced bell pepper, onion, garlic, and ginger. Stir fry for 2-3 minutes until vegetables are tender-crisp.",
+              "3. Add beef and sauce to the pan. Stir fry until beef is cooked to desired doneness.",
+              "4. Season with salt and pepper to taste.",
+              "5. Serve over rice."
+            ],
+            "rating": 4.2
+        },
+        {
+            "name": "Spaghetti and Meatballs",
+            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "ingredients": [
+              "1 lb ground beef",
+              "1/2 cup bread crumbs",
+              "1/4 cup milk",
+              "1 egg",
+              "1/4 cup grated Parmesan cheese",
+              "1 tsp dried oregano",
+              "1/2 tsp salt",
+              "1/4 tsp black pepper",
+              "1 lb spaghetti",
+              "1 jar spaghetti sauce"
+            ],
+            "method": [
+              "1. In a bowl, mix together ground beef, bread crumbs, milk, egg, Parmesan cheese, oregano, salt, and pepper. Roll mixture into meatballs.",
+              "2. In a pan, brown meatballs on all sides.",
+              "3. Cook spaghetti according to package instructions.",
+              "4. Heat spaghetti sauce in a pan. Add meatballs and simmer for 10-15 minutes until meatballs are cooked through.",
+              "5. Serve meatballs and sauce over spaghetti."
+            ],
+            "rating": 4.7
+        },
+        {
+            "name": "Spaghetti and Meatballs",
+            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "ingredients": [
+              "1 lb ground beef",
+              "1/2 cup bread crumbs",
+              "1/4 cup milk",
+              "1 egg",
+              "1/4 cup grated Parmesan cheese",
+              "1 tsp dried oregano",
+              "1/2 tsp salt",
+              "1/4 tsp black pepper",
+              "1 lb spaghetti",
+              "1 jar spaghetti sauce"
+            ],
+            "method": [
+              "1. In a bowl, mix together ground beef, bread crumbs, milk, egg, Parmesan cheese, oregano, salt, and pepper. Roll mixture into meatballs.",
+              "2. In a pan, brown meatballs on all sides.",
+              "3. Cook spaghetti according to package instructions.",
+              "4. Heat spaghetti sauce in a pan. Add meatballs and simmer for 10-15 minutes until meatballs are cooked through.",
+              "5. Serve meatballs and sauce over spaghetti."
+            ],
+            "rating": 4.7
+        }
+      ]
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/FzbN4w9/chef-3.jpg",
+    "name": "Maria Rodriguez",
+    "years_of_experience": 8,
+    "num_recipes": 40,
+    "likes": 8000,
+    "recipes": [
+        {
+            "name": "Chicken Alfredo Pasta",
+            "picture": "https://www.example.com/chicken-alfredo-pasta.jpg",
+            "ingredients": [
+              "8 oz fettuccine pasta",
+              "1 lb chicken breast, diced",
+              "3 cloves garlic, minced",
+              "1 cup heavy cream",
+              "1 cup grated Parmesan cheese",
+              "1/2 cup butter",
+              "Salt and pepper, to taste"
+            ],
+            "method": [
+              "1. Cook pasta according to package instructions.",
+              "2. In a separate pan, cook chicken and garlic until no longer pink.",
+              "3. Add heavy cream, Parmesan cheese, and butter to chicken mixture. Stir until cheese is melted and sauce is heated through.",
+              "4. Drain pasta and add it to the sauce. Toss to coat.",
+              "5. Season with salt and pepper to taste."
+            ],
+            "rating": 4.5
+        },
+        {
+            "name": "Beef Stir Fry",
+            "picture": "https://www.example.com/beef-stir-fry.jpg",
+            "ingredients": [
+              "1 lb beef sirloin, sliced",
+              "3 tbsp soy sauce",
+              "1 tbsp cornstarch",
+              "1 tsp sesame oil",
+              "1 tbsp vegetable oil",
+              "1 bell pepper, sliced",
+              "1 onion, sliced",
+              "2 cloves garlic, minced",
+              "1 inch ginger, grated",
+              "Salt and pepper, to taste"
+            ],
+            "method": [
+              "1. In a bowl, mix together soy sauce, cornstarch, and sesame oil. Add sliced beef and toss to coat.",
+              "2. Heat vegetable oil in a pan over high heat. Add sliced bell pepper, onion, garlic, and ginger. Stir fry for 2-3 minutes until vegetables are tender-crisp.",
+              "3. Add beef and sauce to the pan. Stir fry until beef is cooked to desired doneness.",
+              "4. Season with salt and pepper to taste.",
+              "5. Serve over rice."
+            ],
+            "rating": 4.2
+        },
+        {
+            "name": "Spaghetti and Meatballs",
+            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "ingredients": [
+              "1 lb ground beef",
+              "1/2 cup bread crumbs",
+              "1/4 cup milk",
+              "1 egg",
+              "1/4 cup grated Parmesan cheese",
+              "1 tsp dried oregano",
+              "1/2 tsp salt",
+              "1/4 tsp black pepper",
+              "1 lb spaghetti",
+              "1 jar spaghetti sauce"
+            ],
+            "method": [
+              "1. In a bowl, mix together ground beef, bread crumbs, milk, egg, Parmesan cheese, oregano, salt, and pepper. Roll mixture into meatballs.",
+              "2. In a pan, brown meatballs on all sides.",
+              "3. Cook spaghetti according to package instructions.",
+              "4. Heat spaghetti sauce in a pan. Add meatballs and simmer for 10-15 minutes until meatballs are cooked through.",
+              "5. Serve meatballs and sauce over spaghetti."
+            ],
+            "rating": 4.7
+        },
+        {
+            "name": "Spaghetti and Meatballs",
+            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "ingredients": [
+              "1 lb ground beef",
+              "1/2 cup bread crumbs",
+              "1/4 cup milk",
+              "1 egg",
+              "1/4 cup grated Parmesan cheese",
+              "1 tsp dried oregano",
+              "1/2 tsp salt",
+              "1/4 tsp black pepper",
+              "1 lb spaghetti",
+              "1 jar spaghetti sauce"
+            ],
+            "method": [
+              "1. In a bowl, mix together ground beef, bread crumbs, milk, egg, Parmesan cheese, oregano, salt, and pepper. Roll mixture into meatballs.",
+              "2. In a pan, brown meatballs on all sides.",
+              "3. Cook spaghetti according to package instructions.",
+              "4. Heat spaghetti sauce in a pan. Add meatballs and simmer for 10-15 minutes until meatballs are cooked through.",
+              "5. Serve meatballs and sauce over spaghetti."
+            ],
+            "rating": 4.7
+        }
+      ]
+
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/8NLctsP/chef-2.jpg",
+    "name": "David Lee",
+    "years_of_experience": 15,
+    "num_recipes": 60,
+    "likes": 12000,
+    "recipes": [
+        {
+            "name": "Chicken Alfredo Pasta",
+            "picture": "https://www.example.com/chicken-alfredo-pasta.jpg",
+            "ingredients": [
+              "8 oz fettuccine pasta",
+              "1 lb chicken breast, diced",
+              "3 cloves garlic, minced",
+              "1 cup heavy cream",
+              "1 cup grated Parmesan cheese",
+              "1/2 cup butter",
+              "Salt and pepper, to taste"
+            ],
+            "method": [
+              "1. Cook pasta according to package instructions.",
+              "2. In a separate pan, cook chicken and garlic until no longer pink.",
+              "3. Add heavy cream, Parmesan cheese, and butter to chicken mixture. Stir until cheese is melted and sauce is heated through.",
+              "4. Drain pasta and add it to the sauce. Toss to coat.",
+              "5. Season with salt and pepper to taste."
+            ],
+            "rating": 4.5
+        },
+        {
+            "name": "Beef Stir Fry",
+            "picture": "https://www.example.com/beef-stir-fry.jpg",
+            "ingredients": [
+              "1 lb beef sirloin, sliced",
+              "3 tbsp soy sauce",
+              "1 tbsp cornstarch",
+              "1 tsp sesame oil",
+              "1 tbsp vegetable oil",
+              "1 bell pepper, sliced",
+              "1 onion, sliced",
+              "2 cloves garlic, minced",
+              "1 inch ginger, grated",
+              "Salt and pepper, to taste"
+            ],
+            "method": [
+              "1. In a bowl, mix together soy sauce, cornstarch, and sesame oil. Add sliced beef and toss to coat.",
+              "2. Heat vegetable oil in a pan over high heat. Add sliced bell pepper, onion, garlic, and ginger. Stir fry for 2-3 minutes until vegetables are tender-crisp.",
+              "3. Add beef and sauce to the pan. Stir fry until beef is cooked to desired doneness.",
+              "4. Season with salt and pepper to taste.",
+              "5. Serve over rice."
+            ],
+            "rating": 4.2
+        },
+        {
+            "name": "Spaghetti and Meatballs",
+            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "ingredients": [
+              "1 lb ground beef",
+              "1/2 cup bread crumbs",
+              "1/4 cup milk",
+              "1 egg",
+              "1/4 cup grated Parmesan cheese",
+              "1 tsp dried oregano",
+              "1/2 tsp salt",
+              "1/4 tsp black pepper",
+              "1 lb spaghetti",
+              "1 jar spaghetti sauce"
+            ],
+            "method": [
+              "1. In a bowl, mix together ground beef, bread crumbs, milk, egg, Parmesan cheese, oregano, salt, and pepper. Roll mixture into meatballs.",
+              "2. In a pan, brown meatballs on all sides.",
+              "3. Cook spaghetti according to package instructions.",
+              "4. Heat spaghetti sauce in a pan. Add meatballs and simmer for 10-15 minutes until meatballs are cooked through.",
+              "5. Serve meatballs and sauce over spaghetti."
+            ],
+            "rating": 4.7
+        },
+        {
+            "name": "Spaghetti and Meatballs",
+            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "ingredients": [
+              "1 lb ground beef",
+              "1/2 cup bread crumbs",
+              "1/4 cup milk",
+              "1 egg",
+              "1/4 cup grated Parmesan cheese",
+              "1 tsp dried oregano",
+              "1/2 tsp salt",
+              "1/4 tsp black pepper",
+              "1 lb spaghetti",
+              "1 jar spaghetti sauce"
+            ],
+            "method": [
+              "1. In a bowl, mix together ground beef, bread crumbs, milk, egg, Parmesan cheese, oregano, salt, and pepper. Roll mixture into meatballs.",
+              "2. In a pan, brown meatballs on all sides.",
+              "3. Cook spaghetti according to package instructions.",
+              "4. Heat spaghetti sauce in a pan. Add meatballs and simmer for 10-15 minutes until meatballs are cooked through.",
+              "5. Serve meatballs and sauce over spaghetti."
+            ],
+            "rating": 4.7
+        }
+      ]
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/cYrRm1j/chef-4.jpg",
+    "name": "Catherine Kim",
+    "years_of_experience": 12,
+    "num_recipes": 55,
+    "likes": 11000,
+    "recipes": [
+        {
+            "name": "Chicken Alfredo Pasta",
+            "picture": "https://www.example.com/chicken-alfredo-pasta.jpg",
+            "ingredients": [
+              "8 oz fettuccine pasta",
+              "1 lb chicken breast, diced",
+              "3 cloves garlic, minced",
+              "1 cup heavy cream",
+              "1 cup grated Parmesan cheese",
+              "1/2 cup butter",
+              "Salt and pepper, to taste"
+            ],
+            "method": [
+              "1. Cook pasta according to package instructions.",
+              "2. In a separate pan, cook chicken and garlic until no longer pink.",
+              "3. Add heavy cream, Parmesan cheese, and butter to chicken mixture. Stir until cheese is melted and sauce is heated through.",
+              "4. Drain pasta and add it to the sauce. Toss to coat.",
+              "5. Season with salt and pepper to taste."
+            ],
+            "rating": 4.5
+        },
+        {
+            "name": "Beef Stir Fry",
+            "picture": "https://www.example.com/beef-stir-fry.jpg",
+            "ingredients": [
+              "1 lb beef sirloin, sliced",
+              "3 tbsp soy sauce",
+              "1 tbsp cornstarch",
+              "1 tsp sesame oil",
+              "1 tbsp vegetable oil",
+              "1 bell pepper, sliced",
+              "1 onion, sliced",
+              "2 cloves garlic, minced",
+              "1 inch ginger, grated",
+              "Salt and pepper, to taste"
+            ],
+            "method": [
+              "1. In a bowl, mix together soy sauce, cornstarch, and sesame oil. Add sliced beef and toss to coat.",
+              "2. Heat vegetable oil in a pan over high heat. Add sliced bell pepper, onion, garlic, and ginger. Stir fry for 2-3 minutes until vegetables are tender-crisp.",
+              "3. Add beef and sauce to the pan. Stir fry until beef is cooked to desired doneness.",
+              "4. Season with salt and pepper to taste.",
+              "5. Serve over rice."
+            ],
+            "rating": 4.2
+        },
+        {
+            "name": "Spaghetti and Meatballs",
+            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "ingredients": [
+              "1 lb ground beef",
+              "1/2 cup bread crumbs",
+              "1/4 cup milk",
+              "1 egg",
+              "1/4 cup grated Parmesan cheese",
+              "1 tsp dried oregano",
+              "1/2 tsp salt",
+              "1/4 tsp black pepper",
+              "1 lb spaghetti",
+              "1 jar spaghetti sauce"
+            ],
+            "method": [
+              "1. In a bowl, mix together ground beef, bread crumbs, milk, egg, Parmesan cheese, oregano, salt, and pepper. Roll mixture into meatballs.",
+              "2. In a pan, brown meatballs on all sides.",
+              "3. Cook spaghetti according to package instructions.",
+              "4. Heat spaghetti sauce in a pan. Add meatballs and simmer for 10-15 minutes until meatballs are cooked through.",
+              "5. Serve meatballs and sauce over spaghetti."
+            ],
+            "rating": 4.7
+        },
+        {
+            "name": "Spaghetti and Meatballs",
+            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "ingredients": [
+              "1 lb ground beef",
+              "1/2 cup bread crumbs",
+              "1/4 cup milk",
+              "1 egg",
+              "1/4 cup grated Parmesan cheese",
+              "1 tsp dried oregano",
+              "1/2 tsp salt",
+              "1/4 tsp black pepper",
+              "1 lb spaghetti",
+              "1 jar spaghetti sauce"
+            ],
+            "method": [
+              "1. In a bowl, mix together ground beef, bread crumbs, milk, egg, Parmesan cheese, oregano, salt, and pepper. Roll mixture into meatballs.",
+              "2. In a pan, brown meatballs on all sides.",
+              "3. Cook spaghetti according to package instructions.",
+              "4. Heat spaghetti sauce in a pan. Add meatballs and simmer for 10-15 minutes until meatballs are cooked through.",
+              "5. Serve meatballs and sauce over spaghetti."
+            ],
+            "rating": 4.7
+        }
+      ]
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/6nBMWRW/smiling-chef-recommended-main-course.jpg",
+    "name": "Michael Chen",
+    "years_of_experience": 6,
+    "num_recipes": 30,
+    "likes": 6000,
+    "recipes": [
+        {
+            "name": "Chicken Alfredo Pasta",
+            "picture": "https://www.example.com/chicken-alfredo-pasta.jpg",
+            "ingredients": [
+              "8 oz fettuccine pasta",
+              "1 lb chicken breast, diced",
+              "3 cloves garlic, minced",
+              "1 cup heavy cream",
+              "1 cup grated Parmesan cheese",
+              "1/2 cup butter",
+              "Salt and pepper, to taste"
+            ],
+            "method": [
+              "1. Cook pasta according to package instructions.",
+              "2. In a separate pan, cook chicken and garlic until no longer pink.",
+              "3. Add heavy cream, Parmesan cheese, and butter to chicken mixture. Stir until cheese is melted and sauce is heated through.",
+              "4. Drain pasta and add it to the sauce. Toss to coat.",
+              "5. Season with salt and pepper to taste."
+            ],
+            "rating": 4.5
+        },
+        {
+            "name": "Beef Stir Fry",
+            "picture": "https://www.example.com/beef-stir-fry.jpg",
+            "ingredients": [
+              "1 lb beef sirloin, sliced",
+              "3 tbsp soy sauce",
+              "1 tbsp cornstarch",
+              "1 tsp sesame oil",
+              "1 tbsp vegetable oil",
+              "1 bell pepper, sliced",
+              "1 onion, sliced",
+              "2 cloves garlic, minced",
+              "1 inch ginger, grated",
+              "Salt and pepper, to taste"
+            ],
+            "method": [
+              "1. In a bowl, mix together soy sauce, cornstarch, and sesame oil. Add sliced beef and toss to coat.",
+              "2. Heat vegetable oil in a pan over high heat. Add sliced bell pepper, onion, garlic, and ginger. Stir fry for 2-3 minutes until vegetables are tender-crisp.",
+              "3. Add beef and sauce to the pan. Stir fry until beef is cooked to desired doneness.",
+              "4. Season with salt and pepper to taste.",
+              "5. Serve over rice."
+            ],
+            "rating": 4.2
+        },
+        {
+            "name": "Spaghetti and Meatballs",
+            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "ingredients": [
+              "1 lb ground beef",
+              "1/2 cup bread crumbs",
+              "1/4 cup milk",
+              "1 egg",
+              "1/4 cup grated Parmesan cheese",
+              "1 tsp dried oregano",
+              "1/2 tsp salt",
+              "1/4 tsp black pepper",
+              "1 lb spaghetti",
+              "1 jar spaghetti sauce"
+            ],
+            "method": [
+              "1. In a bowl, mix together ground beef, bread crumbs, milk, egg, Parmesan cheese, oregano, salt, and pepper. Roll mixture into meatballs.",
+              "2. In a pan, brown meatballs on all sides.",
+              "3. Cook spaghetti according to package instructions.",
+              "4. Heat spaghetti sauce in a pan. Add meatballs and simmer for 10-15 minutes until meatballs are cooked through.",
+              "5. Serve meatballs and sauce over spaghetti."
+            ],
+            "rating": 4.7
+        },
+        {
+            "name": "Spaghetti and Meatballs",
+            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "ingredients": [
+              "1 lb ground beef",
+              "1/2 cup bread crumbs",
+              "1/4 cup milk",
+              "1 egg",
+              "1/4 cup grated Parmesan cheese",
+              "1 tsp dried oregano",
+              "1/2 tsp salt",
+              "1/4 tsp black pepper",
+              "1 lb spaghetti",
+              "1 jar spaghetti sauce"
+            ],
+            "method": [
+              "1. In a bowl, mix together ground beef, bread crumbs, milk, egg, Parmesan cheese, oregano, salt, and pepper. Roll mixture into meatballs.",
+              "2. In a pan, brown meatballs on all sides.",
+              "3. Cook spaghetti according to package instructions.",
+              "4. Heat spaghetti sauce in a pan. Add meatballs and simmer for 10-15 minutes until meatballs are cooked through.",
+              "5. Serve meatballs and sauce over spaghetti."
+            ],
+            "rating": 4.7
+        }
+      ]
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/WV8snrD/chef-6.jpg",
+    "name": "Dua Lipa",
+    "years_of_experience": 4,
+    "num_recipes": 20,
+    "likes": 4000,
+    "recipes": [
+        {
+            "name": "Chicken Alfredo Pasta",
+            "picture": "https://www.example.com/chicken-alfredo-pasta.jpg",
+            "ingredients": [
+              "8 oz fettuccine pasta",
+              "1 lb chicken breast, diced",
+              "3 cloves garlic, minced",
+              "1 cup heavy cream",
+              "1 cup grated Parmesan cheese",
+              "1/2 cup butter",
+              "Salt and pepper, to taste"
+            ],
+            "method": [
+              "1. Cook pasta according to package instructions.",
+              "2. In a separate pan, cook chicken and garlic until no longer pink.",
+              "3. Add heavy cream, Parmesan cheese, and butter to chicken mixture. Stir until cheese is melted and sauce is heated through.",
+              "4. Drain pasta and add it to the sauce. Toss to coat.",
+              "5. Season with salt and pepper to taste."
+            ],
+            "rating": 4.5
+        },
+        {
+            "name": "Beef Stir Fry",
+            "picture": "https://www.example.com/beef-stir-fry.jpg",
+            "ingredients": [
+              "1 lb beef sirloin, sliced",
+              "3 tbsp soy sauce",
+              "1 tbsp cornstarch",
+              "1 tsp sesame oil",
+              "1 tbsp vegetable oil",
+              "1 bell pepper, sliced",
+              "1 onion, sliced",
+              "2 cloves garlic, minced",
+              "1 inch ginger, grated",
+              "Salt and pepper, to taste"
+            ],
+            "method": [
+              "1. In a bowl, mix together soy sauce, cornstarch, and sesame oil. Add sliced beef and toss to coat.",
+              "2. Heat vegetable oil in a pan over high heat. Add sliced bell pepper, onion, garlic, and ginger. Stir fry for 2-3 minutes until vegetables are tender-crisp.",
+              "3. Add beef and sauce to the pan. Stir fry until beef is cooked to desired doneness.",
+              "4. Season with salt and pepper to taste.",
+              "5. Serve over rice."
+            ],
+            "rating": 4.2
+        },
+        {
+            "name": "Spaghetti and Meatballs",
+            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "ingredients": [
+              "1 lb ground beef",
+              "1/2 cup bread crumbs",
+              "1/4 cup milk",
+              "1 egg",
+              "1/4 cup grated Parmesan cheese",
+              "1 tsp dried oregano",
+              "1/2 tsp salt",
+              "1/4 tsp black pepper",
+              "1 lb spaghetti",
+              "1 jar spaghetti sauce"
+            ],
+            "method": [
+              "1. In a bowl, mix together ground beef, bread crumbs, milk, egg, Parmesan cheese, oregano, salt, and pepper. Roll mixture into meatballs.",
+              "2. In a pan, brown meatballs on all sides.",
+              "3. Cook spaghetti according to package instructions.",
+              "4. Heat spaghetti sauce in a pan. Add meatballs and simmer for 10-15 minutes until meatballs are cooked through.",
+              "5. Serve meatballs and sauce over spaghetti."
+            ],
+            "rating": 4.7
+        },
+        {
+            "name": "Spaghetti and Meatballs",
+            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "ingredients": [
+              "1 lb ground beef",
+              "1/2 cup bread crumbs",
+              "1/4 cup milk",
+              "1 egg",
+              "1/4 cup grated Parmesan cheese",
+              "1 tsp dried oregano",
+              "1/2 tsp salt",
+              "1/4 tsp black pepper",
+              "1 lb spaghetti",
+              "1 jar spaghetti sauce"
+            ],
+            "method": [
+              "1. In a bowl, mix together ground beef, bread crumbs, milk, egg, Parmesan cheese, oregano, salt, and pepper. Roll mixture into meatballs.",
+              "2. In a pan, brown meatballs on all sides.",
+              "3. Cook spaghetti according to package instructions.",
+              "4. Heat spaghetti sauce in a pan. Add meatballs and simmer for 10-15 minutes until meatballs are cooked through.",
+              "5. Serve meatballs and sauce over spaghetti."
+            ],
+            "rating": 4.7
+        }
+      ]
+  }
+]
