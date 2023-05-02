@@ -9,7 +9,7 @@
     "recipes": [
         {
             "name": "Chicken Alfredo Pasta",
-            "picture": "https://www.example.com/chicken-alfredo-pasta.jpg",
+            "picture": "https://i.ibb.co/F39rbF5/pasta.jpg",
             "ingredients": [
               "8 oz fettuccine pasta",
               "1 lb chicken breast, diced",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Beef Stir Fry",
-            "picture": "https://www.example.com/beef-stir-fry.jpg",
+            "picture": "https://i.ibb.co/gtM1kzx/Beef-Stir-Fry.jpg",
             "ingredients": [
               "1 lb beef sirloin, sliced",
               "3 tbsp soy sauce",
@@ -54,7 +54,7 @@
         },
         {
             "name": "Spaghetti and Meatballs",
-            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "picture": "https://i.ibb.co/R7dD8BL/Spaghetti-and-Meatballs.webp",
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -77,8 +77,8 @@
             "rating": 4.7
         },
         {
-            "name": "Spaghetti and Meatballs",
-            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "name": "Chicken Briyani",
+            "picture": "https://i.ibb.co/HP1WtPZ/rices.jpg",
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -111,8 +111,8 @@
     "likes": 8000,
     "recipes": [
         {
-            "name": "Chicken Alfredo Pasta",
-            "picture": "https://www.example.com/chicken-alfredo-pasta.jpg",
+            "name": "Chicken Burger",
+            "picture": "https://i.ibb.co/bW5mVLC/food-1.jpg",
             "ingredients": [
               "8 oz fettuccine pasta",
               "1 lb chicken breast, diced",
@@ -132,8 +132,8 @@
             "rating": 4.5
         },
         {
-            "name": "Beef Stir Fry",
-            "picture": "https://www.example.com/beef-stir-fry.jpg",
+            "name": "Chese Pizza",
+            "picture": "https://i.ibb.co/jw0423w/food-2.jpg",
             "ingredients": [
               "1 lb beef sirloin, sliced",
               "3 tbsp soy sauce",
@@ -156,8 +156,8 @@
             "rating": 4.2
         },
         {
-            "name": "Spaghetti and Meatballs",
-            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "name": "Nagaram Nodules",
+            "picture": "https://i.ibb.co/wRtV0Wp/food-3.jpg",
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -180,8 +180,8 @@
             "rating": 4.7
         },
         {
-            "name": "Spaghetti and Meatballs",
-            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "name": "Chicken Roel",
+            "picture": "https://i.ibb.co/N176QS4/food-4.jpg",
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -215,8 +215,8 @@
     "likes": 12000,
     "recipes": [
         {
-            "name": "Chicken Alfredo Pasta",
-            "picture": "https://www.example.com/chicken-alfredo-pasta.jpg",
+            "name": "Frence Frie",
+            "picture": "https://i.ibb.co/kMPSMNm/food-5.jpg",
             "ingredients": [
               "8 oz fettuccine pasta",
               "1 lb chicken breast, diced",
@@ -236,8 +236,8 @@
             "rating": 4.5
         },
         {
-            "name": "Beef Stir Fry",
-            "picture": "https://www.example.com/beef-stir-fry.jpg",
+            "name": "Rice Blow",
+            "picture": "https://i.ibb.co/qDtzj4g/food-6.jpg",
             "ingredients": [
               "1 lb beef sirloin, sliced",
               "3 tbsp soy sauce",
@@ -260,8 +260,8 @@
             "rating": 4.2
         },
         {
-            "name": "Spaghetti and Meatballs",
-            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "name": "Set Menu",
+            "picture": "https://i.ibb.co/k8jYvd7/food-7.jpg",
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -285,7 +285,7 @@
         },
         {
             "name": "Spaghetti and Meatballs",
-            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "picture": "https://i.ibb.co/KxRtCJt/food-8.jpg",
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -319,7 +319,7 @@
     "recipes": [
         {
             "name": "Chicken Alfredo Pasta",
-            "picture": "https://www.example.com/chicken-alfredo-pasta.jpg",
+            "picture": "https://i.ibb.co/02rfbGk/food-9.jpg",
             "ingredients": [
               "8 oz fettuccine pasta",
               "1 lb chicken breast, diced",
@@ -340,7 +340,7 @@
         },
         {
             "name": "Beef Stir Fry",
-            "picture": "https://www.example.com/beef-stir-fry.jpg",
+            "picture": "https://i.ibb.co/3CpDnfy/food-10.jpg",
             "ingredients": [
               "1 lb beef sirloin, sliced",
               "3 tbsp soy sauce",
@@ -364,7 +364,7 @@
         },
         {
             "name": "Spaghetti and Meatballs",
-            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "picture": "https://i.ibb.co/PtpjtRX/food-11.jpg",
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -388,7 +388,7 @@
         },
         {
             "name": "Spaghetti and Meatballs",
-            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "picture": "https://i.ibb.co/RpgZsng/food-12.jpg",
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -422,7 +422,7 @@
     "recipes": [
         {
             "name": "Chicken Alfredo Pasta",
-            "picture": "https://www.example.com/chicken-alfredo-pasta.jpg",
+            "picture": "https://i.ibb.co/FnbHRnT/food-13.jpg",
             "ingredients": [
               "8 oz fettuccine pasta",
               "1 lb chicken breast, diced",
@@ -443,7 +443,7 @@
         },
         {
             "name": "Beef Stir Fry",
-            "picture": "https://www.example.com/beef-stir-fry.jpg",
+            "picture": "https://i.ibb.co/Jc1Y1yP/food-15.jpg",
             "ingredients": [
               "1 lb beef sirloin, sliced",
               "3 tbsp soy sauce",
@@ -467,7 +467,7 @@
         },
         {
             "name": "Spaghetti and Meatballs",
-            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "picture": "https://i.ibb.co/Jc1Y1yP/food-15.jpg",
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -491,7 +491,7 @@
         },
         {
             "name": "Spaghetti and Meatballs",
-            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "picture": "https://i.ibb.co/k8jYvd7/food-7.jpg",
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -525,7 +525,7 @@
     "recipes": [
         {
             "name": "Chicken Alfredo Pasta",
-            "picture": "https://www.example.com/chicken-alfredo-pasta.jpg",
+            "picture": "https://i.ibb.co/kMPSMNm/food-5.jpg",
             "ingredients": [
               "8 oz fettuccine pasta",
               "1 lb chicken breast, diced",
@@ -546,7 +546,7 @@
         },
         {
             "name": "Beef Stir Fry",
-            "picture": "https://www.example.com/beef-stir-fry.jpg",
+            "picture": "https://i.ibb.co/bW5mVLC/food-1.jpg",
             "ingredients": [
               "1 lb beef sirloin, sliced",
               "3 tbsp soy sauce",
@@ -570,7 +570,7 @@
         },
         {
             "name": "Spaghetti and Meatballs",
-            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "picture": "https://i.ibb.co/wRtV0Wp/food-3.jpg",
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -594,7 +594,7 @@
         },
         {
             "name": "Spaghetti and Meatballs",
-            "picture": "https://www.example.com/spaghetti-and-meatballs.jpg",
+            "picture": "https://i.ibb.co/3CpDnfy/food-10.jpg",
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
