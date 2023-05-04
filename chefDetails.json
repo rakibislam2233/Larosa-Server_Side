@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "picture": "https://i.ibb.co/ngcWm3R/chef-1.jpg",
+    "picture": "https://i.postimg.cc/zBYY4PYG/chef-1.jpg",
     "name": "John Smith",
     "years_of_experience": 10,
     "num_recipes": 50,
@@ -11,7 +11,6 @@
         {
             "name": "Chicken Alfredo Pasta",
             "picture": "https://i.ibb.co/F39rbF5/pasta.jpg",
-            "price":85,
             "ingredients": [
               "8 oz fettuccine pasta",
               "1 lb chicken breast, diced",
@@ -33,7 +32,6 @@
         {
             "name": "Beef Stir Fry",
             "picture": "https://i.ibb.co/gtM1kzx/Beef-Stir-Fry.jpg",
-            "price":100,
             "ingredients": [
               "1 lb beef sirloin, sliced",
               "3 tbsp soy sauce",
@@ -58,7 +56,6 @@
         {
             "name": "Spaghetti and Meatballs",
             "picture": "https://i.ibb.co/R7dD8BL/Spaghetti-and-Meatballs.webp",
-            "price":105,
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -83,7 +80,6 @@
         {
             "name": "Chicken Briyani",
             "picture": "https://i.ibb.co/HP1WtPZ/rices.jpg",
-            "price":75,
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -109,7 +105,7 @@
   },
   {
     "id": 2,
-    "picture": "https://i.ibb.co/FzbN4w9/chef-3.jpg",
+    "picture": "https://i.postimg.cc/zfjk1V9H/chef-3.jpg",
     "name": "Maria Rodriguez",
     "description": "Maria Rodriguez  food activist, known for her focus on using local, organic, and sustainable ingredients in her cooking. She is the owner of the famous restaurant Chez Panisse in Berkeley, California, and has been an influential figure in the farm-to-table movement.",
     "years_of_experience": 8,
@@ -119,7 +115,6 @@
         {
             "name": "Chicken Burger",
             "picture": "https://i.ibb.co/bW5mVLC/food-1.jpg",
-            "price":120,
             "ingredients": [
               "8 oz fettuccine pasta",
               "1 lb chicken breast, diced",
@@ -141,7 +136,6 @@
         {
             "name": "Chese Pizza",
             "picture": "https://i.ibb.co/jw0423w/food-2.jpg",
-            "price":140,
             "ingredients": [
               "1 lb beef sirloin, sliced",
               "3 tbsp soy sauce",
@@ -166,7 +160,6 @@
         {
             "name": "Nagaram Nodules",
             "picture": "https://i.ibb.co/wRtV0Wp/food-3.jpg",
-            "price":150,
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -191,7 +184,6 @@
         {
             "name": "Chicken Roel",
             "picture": "https://i.ibb.co/N176QS4/food-4.jpg",
-            "price":65,
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -218,7 +210,7 @@
   },
   {
     "id": 3,
-    "picture": "https://i.ibb.co/8NLctsP/chef-2.jpg",
+    "picture": "https://i.postimg.cc/76n1npZ8/chef-2.jpg",
     "name": "David Lee",
     "description": "David Lee restaurateur, and media personality. He is the founder of the Momofuku restaurant group, which has locations in several cities around the world. Chang has been recognized for his innovative take on Asian cuisine and his use of unexpected ingredients and techniques.",
     "years_of_experience": 15,
@@ -228,7 +220,6 @@
         {
             "name": "Frence Frie",
             "picture": "https://i.ibb.co/kMPSMNm/food-5.jpg",
-            "price":90,
             "ingredients": [
               "8 oz fettuccine pasta",
               "1 lb chicken breast, diced",
@@ -250,7 +241,6 @@
         {
             "name": "Rice Blow",
             "picture": "https://i.ibb.co/qDtzj4g/food-6.jpg",
-            "price":70,
             "ingredients": [
               "1 lb beef sirloin, sliced",
               "3 tbsp soy sauce",
@@ -275,7 +265,6 @@
         {
             "name": "Set Menu",
             "picture": "https://i.ibb.co/k8jYvd7/food-7.jpg",
-            "price":95,
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -300,7 +289,6 @@
         {
             "name": "Spaghetti and Meatballs",
             "picture": "https://i.ibb.co/KxRtCJt/food-8.jpg",
-            "price":199,
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -326,7 +314,7 @@
   },
   {
     "id": 4,
-    "picture": "https://i.ibb.co/cYrRm1j/chef-4.jpg",
+    "picture": "https://i.postimg.cc/Hk3f6sB3/chef-4.jpg",
     "name": "Catherine Kim",
     "description": "Catherine Kim  author, and television personality, best known for her show Barefoot Contessa. She has written several popular cookbooks, and is known for her emphasis on simple, flavorful dishes made with high-quality ingredients.",
     "years_of_experience": 12,
@@ -336,7 +324,6 @@
         {
             "name": "Chicken Alfredo Pasta",
             "picture": "https://i.ibb.co/02rfbGk/food-9.jpg",
-            "price":82,
             "ingredients": [
               "8 oz fettuccine pasta",
               "1 lb chicken breast, diced",
@@ -358,7 +345,6 @@
         {
             "name": "Beef Stir Fry",
             "picture": "https://i.ibb.co/3CpDnfy/food-10.jpg",
-            "price":150,
             "ingredients": [
               "1 lb beef sirloin, sliced",
               "3 tbsp soy sauce",
@@ -383,7 +369,6 @@
         {
             "name": "Spaghetti and Meatballs",
             "picture": "https://i.ibb.co/PtpjtRX/food-11.jpg",
-            "price":160,
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -408,7 +393,6 @@
         {
             "name": "Spaghetti and Meatballs",
             "picture": "https://i.ibb.co/RpgZsng/food-12.jpg",
-            "price":190,
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -434,7 +418,7 @@
   },
   {
     "id": 5,
-    "picture": "https://i.ibb.co/6nBMWRW/smiling-chef-recommended-main-course.jpg",
+    "picture": "https://i.postimg.cc/WzDzSHGb/smiling-chef-recommended-main-course.jpg",
     "name": "Michael Chen",
     "description": "Michael Chen restaurateur known for his mastery of sushi. He is the founder of the famous sushi restaurant Masa in New York City, which has been awarded three Michelin stars. Takayama is known for his attention to detail and his commitment to using the freshest, highest-quality ingredients.",
     "years_of_experience": 6,
@@ -444,7 +428,6 @@
         {
             "name": "Chicken Alfredo Pasta",
             "picture": "https://i.ibb.co/FnbHRnT/food-13.jpg",
-            "price":195,
             "ingredients": [
               "8 oz fettuccine pasta",
               "1 lb chicken breast, diced",
@@ -466,7 +449,6 @@
         {
             "name": "Beef Stir Fry",
             "picture": "https://i.ibb.co/Jc1Y1yP/food-15.jpg",
-            "price":96,
             "ingredients": [
               "1 lb beef sirloin, sliced",
               "3 tbsp soy sauce",
@@ -491,7 +473,6 @@
         {
             "name": "Spaghetti and Meatballs",
             "picture": "https://i.ibb.co/Jc1Y1yP/food-15.jpg",
-            "price":100,
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -516,7 +497,6 @@
         {
             "name": "Spaghetti and Meatballs",
             "picture": "https://i.ibb.co/k8jYvd7/food-7.jpg",
-            "price":150,
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -542,7 +522,7 @@
   },
   {
     "id": 6,
-    "picture": "https://i.ibb.co/WV8snrD/chef-6.jpg",
+    "picture": "https://i.postimg.cc/Nf8hrxX3/chef-6.jpg",
     "name": "Dominique Crenn",
     "description": "Dominique Crenn the owner of several acclaimed restaurants, including Atelier Crenn and Bar Crenn. She is the first female chef in the United States to receive three Michelin stars, and is known for her innovative, artistic approach to cooking.",
     "years_of_experience": 4,
@@ -552,7 +532,6 @@
         {
             "name": "Chicken Alfredo Pasta",
             "picture": "https://i.ibb.co/kMPSMNm/food-5.jpg",
-            "price":200,
             "ingredients": [
               "8 oz fettuccine pasta",
               "1 lb chicken breast, diced",
@@ -574,7 +553,6 @@
         {
             "name": "Beef Stir Fry",
             "picture": "https://i.ibb.co/bW5mVLC/food-1.jpg",
-            "price":180,
             "ingredients": [
               "1 lb beef sirloin, sliced",
               "3 tbsp soy sauce",
@@ -599,7 +577,6 @@
         {
             "name": "Spaghetti and Meatballs",
             "picture": "https://i.ibb.co/wRtV0Wp/food-3.jpg",
-            "price":102,
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",
@@ -624,7 +601,6 @@
         {
             "name": "Spaghetti and Meatballs",
             "picture": "https://i.ibb.co/3CpDnfy/food-10.jpg",
-            "price":105,
             "ingredients": [
               "1 lb ground beef",
               "1/2 cup bread crumbs",

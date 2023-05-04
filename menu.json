@@ -1,0 +1,115 @@
+[
+  {
+    "id": "001",
+    "picture": "https://i.postimg.cc/tJq4v0JF/Beef-Stir-Fry.jpg",
+    "name": "Beef-Stir-Fry",
+    "price": 4.99,
+    "rating": 4.2
+  },
+  {
+    "id": "002",
+    "picture": "https://i.postimg.cc/RVPN80ch/c1.webp",
+    "name": "Lacchi",
+    "price": 2.99,
+    "rating": 4.1
+  },
+  {
+    "id": "003",
+    "picture": "https://i.postimg.cc/xTjXtmNB/c3.jpg",
+    "name": "Soft Drink",
+    "price": 8.99,
+    "rating": 4.5
+  },
+  {
+    "id": "004",
+    "picture": "https://i.postimg.cc/D0kqSwCn/faluda.jpg",
+    "name": "Faluda",
+    "price": 3.99,
+    "rating": 3.8
+  },
+  {
+    "id": "005",
+    "picture": "https://i.postimg.cc/mDxcw67S/fs.jpg",
+    "name": "Set Menu Item",
+    "price": 5.99,
+    "rating": 4.0
+  },
+  {
+    "id": "006",
+    "picture": "https://i.postimg.cc/SQfX6dRW/fs2.jpg",
+    "name": "Burger",
+    "price": 6.99,
+    "rating": 4.3
+  },
+  {
+    "id": "007",
+    "picture": "https://i.postimg.cc/GtmbJkgQ/fs3.webp",
+    "name": "France Fry",
+    "price": 4.49,
+    "rating": 4.4
+  },
+  {
+    "id": "008",
+    "picture": "https://i.postimg.cc/vTcpZXSp/fs4.png",
+    "name": "Pizza",
+    "price": 2.49,
+    "rating": 3.9
+  },
+  {
+    "id": "009",
+    "picture": "https://i.postimg.cc/B6sStWxR/fs6.jpg",
+    "name": "Nagaram Noduls",
+    "price": 5.99,
+    "rating": 4.1
+  },
+  {
+    "id": "010",
+    "picture": "https://i.postimg.cc/65Qg5KQ2/Spaghetti-and-Meatballs.webp",
+    "name": "Spaghetti-and-Meatballs",
+    "price": 1.99,
+    "rating": 3.5
+  },
+  {
+    "id": "011",
+    "picture": "https://i.postimg.cc/k5V7V8XS/rices.jpg",
+    "name": "Rices",
+    "price": 1.99,
+    "rating": 3.5
+  },
+  {
+    "id": "012",
+    "picture": "https://i.postimg.cc/sDhWdQRT/pasta.jpg",
+    "name": "Pasta",
+    "price": 2.99,
+    "rating": 3.5
+  },
+  {
+    "id": "013",
+    "picture": "https://i.postimg.cc/XY8H6DfN/item-7.jpg",
+    "name": "Roll",
+    "price": 2.59,
+    "rating": 3.5
+  },
+  {
+    "id": "014",
+    "picture": "https://i.postimg.cc/7ZJxh0L2/item-6.jpg",
+    "name": "Ches Burger",
+    "price": 4.99,
+    "rating": 3.5
+  },
+  {
+    "id": "014",
+    "picture": "https://i.postimg.cc/5tyG3sfj/ice2.jpg",
+    "name": "Ice-Crem",
+    "price": 2.99,
+    "rating": 3.5
+  },
+  {
+    "id": "014",
+    "picture": "https://i.postimg.cc/mDdv4KVY/ice.jpg",
+    "name": "Ice-Crem2",
+    "price": 2.99,
+    "rating": 3.5
+  }
+
+]
