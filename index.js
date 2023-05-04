@@ -7,6 +7,7 @@ app.use(cors())
 app.get('/', (req, res) => {
   res.send(chefDetails)
 })
+
 app.get('/chefDetails/:id', (req, res) => {
   const id = parseInt(req.params.id);
   const singleData = chefDetails.find(sd=> parseInt(sd.id) === id)
